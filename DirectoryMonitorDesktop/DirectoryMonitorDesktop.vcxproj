@@ -207,6 +207,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\DirectoryMonitorDesktop.ico" />
+    <Image Include="res\icon1.ico" />
     <Image Include="res\Toolbar.bmp" />
     <Image Include="res\Toolbar256.bmp" />
   </ItemGroup>
